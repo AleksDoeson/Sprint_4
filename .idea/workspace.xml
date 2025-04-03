@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39bec573-d888-49f3-8d95-619ab3204e4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="39bec573-d888-49f3-8d95-619ab3204e4d" name="Changes" comment="Проверки были на Chrome" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AleksDoeson"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:AleksDoeson/Sprint_4.git",
+    "accountId": "f13f5f64-a70e-476d-9977-dcca21f5b632"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -39,7 +48,6 @@
     "JUnit.OpenScooterPageTest.openScooterPage.executor": "Debug",
     "JUnit.OrderTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
@@ -62,7 +70,6 @@
       </method>
     </configuration>
     <configuration name="FAQTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qa-scooter-tests" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.praktikum.scooter.tests.*" />
@@ -71,6 +78,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.praktikum.scooter.tests" />
       <option name="MAIN_CLASS_NAME" value="ru.praktikum.scooter.tests.FAQTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,7 +116,6 @@
       </method>
     </configuration>
     <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qa-scooter-tests" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.praktikum.scooter.tests.*" />
@@ -117,6 +124,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.praktikum.scooter.tests" />
       <option name="MAIN_CLASS_NAME" value="ru.praktikum.scooter.tests.OrderTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,6 +149,19 @@
       <option name="presentableId" value="Default" />
       <updated>1743675001579</updated>
     </task>
+    <task id="LOCAL-00001" summary="Проверки были на Chrome">
+      <option name="closed" value="true" />
+      <created>1743699820092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743699820092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Проверки были на Chrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Проверки были на Chrome" />
   </component>
 </project>
